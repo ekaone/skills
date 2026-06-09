@@ -1,5 +1,3 @@
-# > Not Published Yet
-
 # @ekaone/skills
 
 `@ekaone/skills` is the typed skill registry and loader for the Agent OS ecosystem.
